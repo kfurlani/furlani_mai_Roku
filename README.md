@@ -17,6 +17,9 @@ Check out the Developer/Designer notes below!
 https://docs.google.com/document/d/1iNajGvzSqqfRmKGz9qak4F06vEu7zTvl7IQM4VDbfhU/edit?usp=sharing 
 
 ## Link to Prototype 
+Please checkout the roku_designs.pdf to see all designed artboards.
+https://xd.adobe.com/view/6afbe526-800b-4d3f-a954-a0bd3b6025de-3fa8/
+
 
 ## Code Used 
 
